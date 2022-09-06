@@ -1,0 +1,19 @@
+Comandos básicos para o GIT:
+
+Primeiro clonar:
+- Copia o link no GitHub do repositório criado;
+- Entra na pasta onde deseja armazenar o repositório no computador local e com o botão 
+direito do mouse vá em Git Bash Here;
+- No git bash de o comando: git clone e cole o link copiado do GitHub anteriormente;
+- se for a primeira vez, você precisará fazer o login;
+
+
+Depois de fazer as anotações e/ou atualizações necessárias, vamos atualizar para o servidor remoto:
+Para atualizar a pasta local para o GitHub (Remoto):
+- git status (para ver as atualizações realizadas);
+- git add . (para adicionar todos os arquivos);
+- git commit -m "comentário do commit";
+- git push origin main (enviando todos os arquivos para o GitHub).
+
+FIM!
+ 
